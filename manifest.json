@@ -2,7 +2,7 @@
   "name": "Read Better",
   "version": "0.0.1",
   "manifest_version": 3,
-  "description": "A primitive extension to help read better and faster. https://github.com/murtiko/read-better. https://www.flaticon.com/free-icons/brain",
+  "description": "A simple extension to help read better and faster. https://github.com/murtiko/read-better. https://www.flaticon.com/free-icons/brain",
   "background": {
     "service_worker": "background.js"
   },
